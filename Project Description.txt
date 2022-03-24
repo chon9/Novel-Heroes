@@ -7,4 +7,4 @@ Sprint Development:
 3.  Wireframe (Frontend)
 4. Templating (Frontend)
 5. Development (Frontend)
-6. Testing
+6. Testingins
