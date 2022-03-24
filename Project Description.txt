@@ -1,0 +1,10 @@
+Project: 小说达人 (Mobile Web)
+Purpose: Allow upload own novel, allow comment and chat, allow level up while write books and read books
+Tools/Dev Kits: MongoDB, Nodejs, VUEJS
+Sprint Development:
+1. Create DB
+2. Flow Chart (Frontend)
+3.  Wireframe (Frontend)
+4. Templating (Frontend)
+5. Development (Frontend)
+6. Testing
